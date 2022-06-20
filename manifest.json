@@ -1,6 +1,6 @@
 {
-    "name": "Aquanotes",
-    "short_name": "Aquanotes",
+    "name": "Water Tracker",
+    "short_name": "WaterTracker",
     "start_url": "./",
     "display": "standalone",
     "background_color": "#ffffff",
